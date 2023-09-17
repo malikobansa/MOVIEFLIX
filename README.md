@@ -13,8 +13,8 @@ This project Template can be used to build bigger projects
 
 ## Live Application URL
 
-### https://tvflix-shivam171.netlify.app/
-This URL has the application deployed in Netlify
+### https://malikobansa.github.io/MOVIEFLIX/
+This URL has the application deployed in Github
 
 ## Contributing
 
